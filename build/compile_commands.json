@@ -1,9 +1,9 @@
 [
 {
   "directory": "/home/ustin/Programs/453501/ОАиП/LR1/build",
-  "command": "/usr/bin/g++  -I/home/ustin/Programs/453501/ОАиП/LR1/build/_deps/fmt-src/include -g -o CMakeFiles/Lab1.dir/Type_3.cpp.o -c /home/ustin/Programs/453501/ОАиП/LR1/Type_3.cpp",
-  "file": "/home/ustin/Programs/453501/ОАиП/LR1/Type_3.cpp",
-  "output": "CMakeFiles/Lab1.dir/Type_3.cpp.o"
+  "command": "/usr/bin/g++  -I/home/ustin/Programs/453501/ОАиП/LR1/build/_deps/fmt-src/include -g -o CMakeFiles/Lab1.dir/Task_3.cpp.o -c /home/ustin/Programs/453501/ОАиП/LR1/Task_3.cpp",
+  "file": "/home/ustin/Programs/453501/ОАиП/LR1/Task_3.cpp",
+  "output": "CMakeFiles/Lab1.dir/Task_3.cpp.o"
 },
 {
   "directory": "/home/ustin/Programs/453501/ОАиП/LR1/build/_deps/fmt-build",

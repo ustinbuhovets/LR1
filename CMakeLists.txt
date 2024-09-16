@@ -14,5 +14,5 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(fmt)
 
 
-add_executable(Lab1 Type_3.cpp)
+add_executable(Lab1 Task_3.cpp)
 target_link_libraries(Lab1 PRIVATE fmt::fmt)

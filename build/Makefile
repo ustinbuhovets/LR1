@@ -187,29 +187,29 @@ fmt/fast:
 	$(MAKE) $(MAKESILENT) -f _deps/fmt-build/CMakeFiles/fmt.dir/build.make _deps/fmt-build/CMakeFiles/fmt.dir/build
 .PHONY : fmt/fast
 
-Type_3.o: Type_3.cpp.o
-.PHONY : Type_3.o
+Task_3.o: Task_3.cpp.o
+.PHONY : Task_3.o
 
 # target to build an object file
-Type_3.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab1.dir/build.make CMakeFiles/Lab1.dir/Type_3.cpp.o
-.PHONY : Type_3.cpp.o
+Task_3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab1.dir/build.make CMakeFiles/Lab1.dir/Task_3.cpp.o
+.PHONY : Task_3.cpp.o
 
-Type_3.i: Type_3.cpp.i
-.PHONY : Type_3.i
+Task_3.i: Task_3.cpp.i
+.PHONY : Task_3.i
 
 # target to preprocess a source file
-Type_3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab1.dir/build.make CMakeFiles/Lab1.dir/Type_3.cpp.i
-.PHONY : Type_3.cpp.i
+Task_3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab1.dir/build.make CMakeFiles/Lab1.dir/Task_3.cpp.i
+.PHONY : Task_3.cpp.i
 
-Type_3.s: Type_3.cpp.s
-.PHONY : Type_3.s
+Task_3.s: Task_3.cpp.s
+.PHONY : Task_3.s
 
 # target to generate assembly for a file
-Type_3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab1.dir/build.make CMakeFiles/Lab1.dir/Type_3.cpp.s
-.PHONY : Type_3.cpp.s
+Task_3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lab1.dir/build.make CMakeFiles/Lab1.dir/Task_3.cpp.s
+.PHONY : Task_3.cpp.s
 
 # Help Target
 help:
@@ -225,9 +225,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Lab1"
 	@echo "... fmt"
-	@echo "... Type_3.o"
-	@echo "... Type_3.i"
-	@echo "... Type_3.s"
+	@echo "... Task_3.o"
+	@echo "... Task_3.i"
+	@echo "... Task_3.s"
 .PHONY : help
 
 

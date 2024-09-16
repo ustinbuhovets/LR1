@@ -1,1 +1,1 @@
-/usr/bin/g++ -g CMakeFiles/Lab1.dir/Type_3.cpp.o -o Lab1  _deps/fmt-build/libfmtd.a 
+/usr/bin/g++ -g CMakeFiles/Lab1.dir/Task_3.cpp.o -o Lab1  _deps/fmt-build/libfmtd.a 

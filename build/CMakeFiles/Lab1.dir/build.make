@@ -69,28 +69,28 @@ include CMakeFiles/Lab1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Lab1.dir/flags.make
 
-CMakeFiles/Lab1.dir/Type_3.cpp.o: CMakeFiles/Lab1.dir/flags.make
-CMakeFiles/Lab1.dir/Type_3.cpp.o: /home/ustin/Programs/453501/ОАиП/LR1/Type_3.cpp
-CMakeFiles/Lab1.dir/Type_3.cpp.o: CMakeFiles/Lab1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ustin/Programs/453501/ОАиП/LR1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab1.dir/Type_3.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab1.dir/Type_3.cpp.o -MF CMakeFiles/Lab1.dir/Type_3.cpp.o.d -o CMakeFiles/Lab1.dir/Type_3.cpp.o -c /home/ustin/Programs/453501/ОАиП/LR1/Type_3.cpp
+CMakeFiles/Lab1.dir/Task_3.cpp.o: CMakeFiles/Lab1.dir/flags.make
+CMakeFiles/Lab1.dir/Task_3.cpp.o: /home/ustin/Programs/453501/ОАиП/LR1/Task_3.cpp
+CMakeFiles/Lab1.dir/Task_3.cpp.o: CMakeFiles/Lab1.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ustin/Programs/453501/ОАиП/LR1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab1.dir/Task_3.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab1.dir/Task_3.cpp.o -MF CMakeFiles/Lab1.dir/Task_3.cpp.o.d -o CMakeFiles/Lab1.dir/Task_3.cpp.o -c /home/ustin/Programs/453501/ОАиП/LR1/Task_3.cpp
 
-CMakeFiles/Lab1.dir/Type_3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab1.dir/Type_3.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ustin/Programs/453501/ОАиП/LR1/Type_3.cpp > CMakeFiles/Lab1.dir/Type_3.cpp.i
+CMakeFiles/Lab1.dir/Task_3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lab1.dir/Task_3.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ustin/Programs/453501/ОАиП/LR1/Task_3.cpp > CMakeFiles/Lab1.dir/Task_3.cpp.i
 
-CMakeFiles/Lab1.dir/Type_3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab1.dir/Type_3.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ustin/Programs/453501/ОАиП/LR1/Type_3.cpp -o CMakeFiles/Lab1.dir/Type_3.cpp.s
+CMakeFiles/Lab1.dir/Task_3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lab1.dir/Task_3.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ustin/Programs/453501/ОАиП/LR1/Task_3.cpp -o CMakeFiles/Lab1.dir/Task_3.cpp.s
 
 # Object files for target Lab1
 Lab1_OBJECTS = \
-"CMakeFiles/Lab1.dir/Type_3.cpp.o"
+"CMakeFiles/Lab1.dir/Task_3.cpp.o"
 
 # External object files for target Lab1
 Lab1_EXTERNAL_OBJECTS =
 
-Lab1: CMakeFiles/Lab1.dir/Type_3.cpp.o
+Lab1: CMakeFiles/Lab1.dir/Task_3.cpp.o
 Lab1: CMakeFiles/Lab1.dir/build.make
 Lab1: _deps/fmt-build/libfmtd.a
 Lab1: CMakeFiles/Lab1.dir/link.txt
